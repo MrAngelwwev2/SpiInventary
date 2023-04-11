@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695890931905",
+    "project_id": "spimoldsinventary",
+    "storage_bucket": "spimoldsinventary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695890931905:android:0f2738d4672040b102a440",
+        "android_client_info": {
+          "package_name": "com.example.spiinventary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695890931905-78k3dnjiq729v483u9s2m5esqr0uc0h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxH_-Dz1vF--IxpudblpsmULQSih_-H8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695890931905-78k3dnjiq729v483u9s2m5esqr0uc0h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
